@@ -1,0 +1,7 @@
+.slider{
+    position:relative;
+    border: 5px solid white;
+}
+.mainImg{
+    transition: all 500ms;
+}
